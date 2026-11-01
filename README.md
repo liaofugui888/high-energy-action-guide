@@ -1,8 +1,10 @@
 # 高能量人生的行动指南 (High Energy Action Guide)
 
-> **“有劲的时候，把劲用在想做的事上；没劲的时候，也知道怎么让自己缓一缓，再接回来。”**  
-> **作者**：廖富贵 · 富贵公司  
-> **版本**：v0.14（双模驱动版：105 条极简行动卡 + 17 篇深度母稿）
+> **今天，先让一件小事发生。**
+>
+> 想做的事，先做30秒。
+
+廖富贵 · 富贵公司
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Actions: 105 Cards](https://img.shields.io/badge/Actions-105%20Cards-green.svg)](01_行动清单/)
@@ -10,8 +12,8 @@
 
 ## 电子书下载
 
-- [《把注意力拿回来》｜7 张行动卡 · 10 页 PDF](https://github.com/liaofugui888/high-energy-action-guide/releases/download/v0.14-readers/attention-7.pdf)　第一次来，挑一张今天就用得上的卡，也可以转给朋友。
-- [《高能量人生的行动指南》｜完整版 · 227 页 PDF](https://github.com/liaofugui888/high-energy-action-guide/releases/download/v0.14-readers/high-energy-guide.pdf)　14 章、105 张行动卡和 17 篇深度长文，支持离线阅读和目录跳转。
+- [《把注意力拿回来》｜7 张行动卡 · 10 页 PDF](https://github.com/liaofugui888/high-energy-action-guide/releases/latest/download/attention-7.pdf)　第一次来，挑一张今天就用得上的卡，也可以转给朋友。
+- [《高能量人生的行动指南》｜完整版 · 223 页 PDF](https://github.com/liaofugui888/high-energy-action-guide/releases/latest/download/high-energy-guide.pdf)　14 章、105 张行动卡和 17 篇深度长文，支持离线阅读和目录跳转。
 
 
 ---
@@ -49,7 +51,7 @@ high-energy-action-guide/
 │
 ├── ⚡ 01_行动清单 (Actions)/         # 【极简行动层：低能量急救】
 │   ├── cards/                       # 105 张独立的微卡片（支持单张调用与检索）
-│   └── 高能量人生的行动指南｜全书清单合集-v0.14.md
+│   └── 高能量人生的行动指南｜全书清单合集.md
 │
 └── 📖 02_深度长文 (Essays)/          # 【深度认知层：周末精读与系统进阶】
     ├── 00_关于作者：廖富贵的故事.md
