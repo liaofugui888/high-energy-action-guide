@@ -8,6 +8,12 @@
 [![Actions: 105 Cards](https://img.shields.io/badge/Actions-105%20Cards-green.svg)](01_行动清单/)
 [![Essays: 17 Deep Dives](https://img.shields.io/badge/Essays-17%20Guides-orange.svg)](02_深度长文/)
 
+## 电子书下载
+
+- [《把注意力拿回来》｜7 张行动卡 · 10 页 PDF](https://github.com/liaofugui888/high-energy-action-guide/releases/download/v0.14-readers/attention-7.pdf)　第一次来，挑一张今天就用得上的卡，也可以转给朋友。
+- [《高能量人生的行动指南》｜完整版 · 227 页 PDF](https://github.com/liaofugui888/high-energy-action-guide/releases/download/v0.14-readers/high-energy-guide.pdf)　14 章、105 张行动卡和 17 篇深度长文，支持离线阅读和目录跳转。
+
+
 ---
 
 ## ⚡ 30 秒行动急救索引（你今天卡在哪儿？）
